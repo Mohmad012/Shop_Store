@@ -18,7 +18,7 @@ const data = {
 			images:'./images/p2.jpg',
 			price:100,
 			brand:'Adidas',
-			rating:4.0,
+			rating:4.5,
 			numReviews:10,
 			description:'high quality product'
 		},
@@ -40,7 +40,7 @@ const data = {
 			images:'./images/p4.jpg',
 			price:78,
 			brand:'Nike',
-			rating:4.5,
+			rating:4.0,
 			numReviews:14,
 			description:'high quality product'
 		},
@@ -51,7 +51,7 @@ const data = {
 			images:'./images/p5.jpg',
 			price:65,
 			brand:'Puma',
-			rating:4.5,
+			rating:4.0,
 			numReviews:10,
 			description:'high quality product'
 		},
